@@ -18,7 +18,7 @@ Do you have a project or need a solution? Then ↴<br><a href="mailto:giovannibi
 
 ![Giovanni's GitHub stats](https://github-readme-stats.vercel.app/api?username=GiovanniBiancuzzo&show_icons=true&theme=radical)
 
-<h4>📕 My Latest</h4>
+<h4>📕 Latest projects</h4>
 
 <!-- BLOG-POST-LIST:START-->
 - [Progetto Finale: Epicode Invoice Manager](https://github.com/GiovanniBiancuzzo/FE07B_progetto_finale_prova1)
