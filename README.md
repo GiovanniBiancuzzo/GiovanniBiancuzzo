@@ -1,7 +1,3 @@
-# GiovanniBiancuzzo.github.io
-portfolio-showcase
-
-  <!-- Hi there! Feel free to make this your own but don't use my data. Attributions are welcomed --> 
 <h3>Hi! 👋<br>I'm Giovanni Biancuzzo<br>a Junior Front End Developer</h3>
 
 <!--
@@ -14,7 +10,7 @@ portfolio-showcase
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
 
-<h6>I build <a href="https://giovannibiancuzzo.github.io./">websites</a>
+<h6>My <a href="https://giovannibiancuzzo.github.io./">portfolio</a>
   <!--<br>I have 8 years of tech experience, creating products, content and solutons while providing IT services.<br>-->
 Do you have a project or need a solution? Then ↴<br><a href="mailto:giovannibiancuzzo@protonmail.com">Contact me to get in touch now!</a></h6>
 
