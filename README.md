@@ -12,7 +12,7 @@
 
 <h6>My <a href="https://giovannibiancuzzo.github.io./">portfolio</a>
   <!--<br>I have 8 years of tech experience, creating products, content and solutons while providing IT services.<br>-->
-Do you have a project or need a solution? Then ↴<br><a href="mailto:giovannibiancuzzo@protonmail.com">Contact me to get in touch now!</a></h6>
+Do you have a project or need a solution? Then ↴<br><a href="mailto:giovannibiancuzzo.dev@gmail.com">Contact me to get in touch now!</a></h6>
 
 <h4> <a href="https://www.linkedin.com/in/giovannibiancuzzo/">LinekdIn</a> • <a href="https://www.instagram.com/white.gianni/">Instagram</a></h4>
 
