@@ -21,7 +21,7 @@ Do you have a project or need a solution? Then ↴<br><a href="mailto:giovannibi
 <h4>📕 Latest projects</h4>
 
 <!-- BLOG-POST-LIST:START-->
-- [Progetto Finale: Epicode Invoice Manager](https://github.com/GiovanniBiancuzzo/FE07B_progetto_finale_prova1)
+- [Progetto Finale: Epicode Invoice Manager](https://epicode-gestore-fatture-8991c.web.app/)
 - [Portale gestione film](https://github.com/GiovanniBiancuzzo/FE07B_progetto_sett12)
 - [Piccolo ecommerce](https://github.com/GiovanniBiancuzzo/FE07B_progetto_sett11)
 <!--
