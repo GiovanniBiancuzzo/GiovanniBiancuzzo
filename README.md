@@ -21,8 +21,8 @@ Do you have a project or need a solution? Then ↴<br><a href="mailto:giovannibi
 <h4>📕 Latest projects</h4>
 
 <!-- BLOG-POST-LIST:START-->
-- [Progetto Finale: Epicode Invoice Manager](https://epicode-gestore-fatture-8991c.web.app/)
-- [Portale gestione film](https://github.com/GiovanniBiancuzzo/FE07B_progetto_sett12)
+- [Progetto Finale: Epicode Invoice Manager](https://epicode-invoice-manager.netlify.app/)
+- [Portale gestione film](https://epicode-movie-catalogue.netlify.app/)
 - [Piccolo ecommerce](https://github.com/GiovanniBiancuzzo/FE07B_progetto_sett11)
 <!--
 - [Cryptocurrencies I&#39;m Buying in 2022](https://stephenajulu.com/blog/cryptocurrencies-i-m-buying-2022/)
