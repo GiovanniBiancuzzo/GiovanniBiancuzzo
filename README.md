@@ -21,6 +21,8 @@ Do you have a project or need a solution? Then ↴<br><a href="mailto:giovannibi
 <h4>📕 Latest projects</h4>
 
 <!-- BLOG-POST-LIST:START-->
+- [Weather app in React](https://weather-app-giovannibiancuzzo.netlify.app/)
+- [Progetto Finale Corso Epicode React](https://linkedinreact.netlify.app/)
 - [Progetto Finale: Epicode Invoice Manager](https://epicode-invoice-manager.netlify.app/)
 - [Portale gestione film](https://epicode-movie-catalogue.netlify.app/)
 - [Piccolo ecommerce](https://github.com/GiovanniBiancuzzo/FE07B_progetto_sett11)
